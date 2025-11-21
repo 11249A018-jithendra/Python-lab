@@ -10,3 +10,13 @@ average3=(test3+test1)/2
 print("average3:",average3)
 best_two_average_marks=max(average1,average2,average3)
 print("the best two-test average :",best_two_average_marks)
+
+output:
+enter marks for test1:78
+enter marks for test2:98
+enter marks for test3:88
+average1: 88.0
+average2: 93.0
+average3: 83.0
+the best two-test average : 93.0
+
